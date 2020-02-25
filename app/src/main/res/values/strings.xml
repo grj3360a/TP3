@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TP3</string>
+    <string name="title">Titre de la fenêtre</string>
+    <string name="prenom">Très beau prénom dit moi</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="a_propos">A propos</string>
+    <string name="valid">Valider</string>
 </resources>
